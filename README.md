@@ -1,2 +1,2 @@
 # donut
-pączek
+pączek. 
